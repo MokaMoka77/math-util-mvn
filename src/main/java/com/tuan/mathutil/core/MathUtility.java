@@ -26,7 +26,8 @@ public class MathUtility {
         //son sot den cho nay, sure n= 2........20 vì ko chết dọc đường ở
         // 2 cụm if ở trên rồi, không cần else nếu trước đó xài return
         
-        long result = 1;// giai thừa khởi đầu là 1
+        long result = 10;// giai thừa khởi đầu là 1
+        //ahihi cố tình làm cho nó test đỏ nè thay result từ 1 thành 10 nè
         //nhan dồn 2,3,4,5...n vào biến này thì thành n!
         
         for (int i = 2; i <= n; i++) {
